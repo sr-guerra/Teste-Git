@@ -2,7 +2,7 @@ a = input('Digite um número ímpar:')
 r = int(a) % 2
 
 if r == 1:
-    print(f'Muito bem, está correto, o número {a} é ímpar. Agora digite um númeto par.')
+    print(f'Muito bem, está correto, o número {a} é ímpar. Agora digite um número par.')
 
     aa = input('Digite um número par:')
     rr = int(aa) % 2
