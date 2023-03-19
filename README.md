@@ -1,2 +1,3 @@
 # Teste-Git
- Primeiro repositório
+ Primeiro repositório.
+ Repositório criado para estudos de git e github.
